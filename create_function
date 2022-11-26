@@ -1,0 +1,6 @@
+# Function Defination
+def add(n1,n2): # function Parameters n1 and n2
+    return n1+n2
+
+# Function Call
+add(5,5) # function Arguments
