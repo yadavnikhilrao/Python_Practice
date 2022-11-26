@@ -1,0 +1,8 @@
+# Find the average marks of the 5 subjects
+def avg(average):  # function define
+    
+   # marks = [65,89,74,85,88]  # local variable
+    return sum(marks)/len(marks)
+
+marks = [65,89,74,85,88]  # enclosed variable
+avg(marks)  # function call
